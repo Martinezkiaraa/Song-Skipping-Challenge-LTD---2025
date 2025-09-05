@@ -1,3 +1,4 @@
 # Song-Skipping-Challenge-LTD---2025
 A TD VI: Inteligencia Artificial Proyect. Experimenting with Random Forest &amp; Bagging.
-Open this repository in "C:\TDVI-TP2"
+Open this repository in "C:\TDVI-TP2".
+The dataser for training must be in the directory "C\:Dataset"
